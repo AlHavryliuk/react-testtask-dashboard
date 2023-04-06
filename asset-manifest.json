@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-testtask-dashboard/static/js/main.d663ac5d.js",
+    "static/media/sprites.svg": "/react-testtask-dashboard/static/media/sprites.c675fd1b3e6342218e54a869c4366f53.svg",
+    "index.html": "/react-testtask-dashboard/index.html",
+    "main.d663ac5d.js.map": "/react-testtask-dashboard/static/js/main.d663ac5d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d663ac5d.js"
+  ]
+}
